@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{CC5FD16D-436D-48AD-A40C-5A424C6E3E79}") = "AzureCloudRandomNumbersOK", "AzureCloudRandomNumbersOK\AzureCloudRandomNumbersOK.ccproj", "{5F4F0432-12D8-4CD1-9CC4-498582F24947}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFServiceWebRole1", "WCFServiceWebRole1\WCFServiceWebRole1.csproj", "{D2480367-E249-4719-B9BE-0F4454F4DFE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F4F0432-12D8-4CD1-9CC4-498582F24947}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F4F0432-12D8-4CD1-9CC4-498582F24947}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F4F0432-12D8-4CD1-9CC4-498582F24947}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F4F0432-12D8-4CD1-9CC4-498582F24947}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2480367-E249-4719-B9BE-0F4454F4DFE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2480367-E249-4719-B9BE-0F4454F4DFE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2480367-E249-4719-B9BE-0F4454F4DFE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2480367-E249-4719-B9BE-0F4454F4DFE6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC7BB2D6-0B6E-4100-A54E-6DB5744A9CEB}
+	EndGlobalSection
+EndGlobal
