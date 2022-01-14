@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <AzureCredentials>{"ServiceManagementEndpoint":"https:\/\/management.core.windows.net\/","ResourceManagementEndpoint":"https:\/\/management.azure.com\/","SubscriptionId":"bb7b68de-50fe-4940-bd39-46c47e508f2f"}</AzureCredentials>
+    <AzureDeploymentLabel>AzureCloudRandomNumbersOK</AzureDeploymentLabel>
+    <AzureEnableRemoteDesktop>False</AzureEnableRemoteDesktop>
+    <AzureServiceConfiguration>Cloud</AzureServiceConfiguration>
+    <AzureSolutionConfiguration>Release</AzureSolutionConfiguration>
+    <AzureAppendTimestampToDeploymentLabel>True</AzureAppendTimestampToDeploymentLabel>
+    <EnableApplicationInsights>False</EnableApplicationInsights>
+    <AzureRMCloudServiceV2Name>servicioinfiernoviernes</AzureRMCloudServiceV2Name>
+    <AzureRMCloudServiceV2ResourceGroupName>azureviernes</AzureRMCloudServiceV2ResourceGroupName>
+    <AzureRMCloudServiceV2Location>{"Name":"westeurope","DisplayName":"West Europe"}</AzureRMCloudServiceV2Location>
+    <AzureRMKeyVaultName />
+    <AzureRMKeyVaultResourceGroupName />
+    <AzureRMKeyVaultLocation />
+    <AzureRMStorageAccountName>azurecloudservicepgs</AzureRMStorageAccountName>
+    <AzureRMStorageAccountResourceGroupName>azureviernes</AzureRMStorageAccountResourceGroupName>
+    <AzureRMStorageAccountLocation>{"Name":"westeurope","DisplayName":"West Europe"}</AzureRMStorageAccountLocation>
+    <AzureRMSwappableCloudServiceV2Name />
+    <AzureRMSwappableCloudServiceV2ResourceGroupName />
+    <AzureRMSwappableCloudServiceV2Location />
+  </PropertyGroup>
+</Project>
